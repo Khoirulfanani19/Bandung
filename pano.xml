@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.2.5" apprev="15998" start="node1">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="1520" levelingpitch="0" levelbias="0.400" levelbiashidpi="0.400" leveltilesize="510" width="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="1.53" fov="64" pan="31.17" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" author="" tags="Foto_Fix" latitude="" title="Sisi Barat Laut" source="" customnodeid="" description="Tampak terdapat batu-batu lepas" datetime="10/05/2022 23:01" copyright="" info="" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" borderalpha="1" enabled="1" backgroundalpha="1" textalpha="1" height="20" borderradius="1" wordwrap="1" width="180" border="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-1.81" title="Sisi Utara" skinid="ht_node" id="Point01" pan="54.15" description="" url="{node2}" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="0" zoomout="0" zoomin="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" blendcolor="0x000000"/>
+    <control simulatemass="1" lockedkeyboard="0" sensitivity="8" lockedmouse="0" hideabout="0" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" contextfullscreen="0" lockedwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="1520" levelingpitch="0" levelbias="0.400" levelbiashidpi="0.400" leveltilesize="510" width="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-10.37" fov="43.3" pan="151" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" author="" tags="Foto_Fix" latitude="" title="Sisi Utara" source="" customnodeid="" description="Tampak terdapat batu-batu lepas serta sumuran atau perigi" datetime="10/05/2022 23:00" copyright="" info="" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" borderalpha="1" enabled="1" backgroundalpha="1" textalpha="1" height="20" borderradius="1" wordwrap="1" width="180" border="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-8.79" title="Sisi Barat Laut" skinid="ht_node" id="Point01" pan="76.6" description="" url="{node1}" target=""/>
+      <hotspot tilt="-10.83" title="Sisi Selatan" skinid="ht_node" id="Point02" pan="-168.07" description="" url="{node4}" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="0" zoomout="0" zoomin="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" blendcolor="0x000000"/>
+    <control simulatemass="1" lockedkeyboard="0" sensitivity="8" lockedmouse="0" hideabout="0" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" contextfullscreen="0" lockedwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="1520" levelingpitch="0" levelbias="0.400" levelbiashidpi="0.400" leveltilesize="510" width="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-5.42" fov="40.4" pan="146.45" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" author="" tags="Foto_Fix" latitude="" title="Sisi Timur" source="" customnodeid="" description="Tampak terdapat batu-batu lepas serta sumuran atau perigi" datetime="10/05/2022 23:01" copyright="" info="" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" borderalpha="1" enabled="1" backgroundalpha="1" textalpha="1" height="20" borderradius="1" wordwrap="1" width="180" border="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-7.03" title="Sisi Selatan" skinid="ht_node" id="Point01" pan="96.36" description="" url="{node4}" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="0" zoomout="0" zoomin="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" blendcolor="0x000000"/>
+    <control simulatemass="1" lockedkeyboard="0" sensitivity="8" lockedmouse="0" hideabout="0" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" contextfullscreen="0" lockedwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="1520" levelingpitch="0" levelbias="0.400" levelbiashidpi="0.400" leveltilesize="510" width="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-7.68" fov="40.5" pan="105.35" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" author="" tags="Foto_Fix" latitude="" title="Sisi Selatan" source="" customnodeid="" description="Tampak terdapat batu-batu lepas serta sumuran atau perigi" datetime="10/05/2022 23:00" copyright="" info="" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" borderalpha="1" enabled="1" backgroundalpha="1" textalpha="1" height="20" borderradius="1" wordwrap="1" width="180" border="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-10.06" title="Sisi Utara" skinid="ht_node" id="Point01" pan="54.88" description="" url="{node2}" target=""/>
+      <hotspot tilt="-11.14" title="Sisi Timur" skinid="ht_node" id="Point02" pan="166.91" description="" url="{node3}" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="0" zoomout="0" zoomin="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" blendcolor="0x000000"/>
+    <control simulatemass="1" lockedkeyboard="0" sensitivity="8" lockedmouse="0" hideabout="0" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" contextfullscreen="0" lockedwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+</tour>
